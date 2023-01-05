@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289135741524",
+    "project_id": "rolexapp-7045a",
+    "storage_bucket": "rolexapp-7045a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289135741524:android:46ac0f0fe182dc8e4efbc1",
+        "android_client_info": {
+          "package_name": "com.rolex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289135741524-e1i6sjqsc148tedn0plu8dvp285rp4vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDao1gU9y_EJbz0qPy0-JfBoDQ0bQ7oXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289135741524-e1i6sjqsc148tedn0plu8dvp285rp4vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
